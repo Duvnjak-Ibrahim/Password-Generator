@@ -1,0 +1,171 @@
+body {
+    margin: 0;
+   background:  #1F2937;
+   color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+    margin-left: 30px;
+
+}
+
+h1{
+    width: 290px;
+    height: 10px;
+    
+    
+    
+
+   
+}
+
+#greenWords{
+    color:#4ADF86;
+    margin-bottom: 40px;
+}
+
+p{
+    color: #D5D4D8;
+}
+
+#generate-el{
+    background: #10B981;
+    border: 2px solid #10B981;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-size: 14px;
+    padding: 7px 13px;
+    border-radius: 6px;
+}
+
+#line{
+    width: 90%;
+    margin: 30px auto;
+    height: 1px;
+    background: #2F3E53;   
+}
+#password-names{
+    display: flex;
+     justify-content: space-around; 
+}
+
+#password1-el{
+    padding: 10px 35px;
+    background: #273549;
+    color: #55F991;
+    border-radius: 6px;
+}
+
+#password2-el{
+    padding: 10px 35px;
+    background: #273549;
+    color: #55F991;
+     border-radius: 6px;
+}
+
+#genNumbers{
+    background: #10B981;
+    border: 2px solid #10B981;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-size: 14px;
+    padding: 7px 13px;
+    margin-top: 10px;
+    border-radius: 6px;
+    text-shadow: 0px 0px 1px black;
+}
+
+#buttonNum{
+    display: flex;
+    justify-content: space-around;
+    
+   
+}
+
+#reset-btn{
+    background: #10B981;
+    border: 2px solid #10B981;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-size: 14px;
+    padding: 7px 13px;
+    border-radius: 6px;
+    text-shadow: 0px 0px 2px black;
+}
+
+#numandletr{
+      background: #10B981;
+    border: 2px solid #10B981;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-size: 14px;
+    padding: 7px 13px;
+    border-radius: 6px;
+    text-shadow: 0px 0px 1px black;
+}
+
+#lettersAndASigns{
+     background: #10B981;
+    border: 2px solid #10B981;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-size: 14px;
+    padding: 7px 13px;
+    margin-top: 10px;
+    border-radius: 6px;
+    text-shadow: 0px 0px 1px black;
+}
+
+
+#secondRow{
+    display: flex;
+    justify-content: space-around;
+   padding-top: 0px;
+}
+
+
+#reset-btn{
+    margin: 0 auto;
+    display: flex; 
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 0px 0px 1px black;
+}
+
+#generate-el{
+    text-shadow: 0px 0px 1px black;
+}
+
+#numbersAndSigns{
+     background: #10B981;
+    border: 2px solid #10B981;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-size: 14px;
+    padding: 7px 13px;
+
+    border-radius: 6px;
+    text-shadow: 0px 0px 1px black;
+}
+
+#letter{
+    background: #10B981;
+    border: 2px solid #10B981;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-size: 14px;
+    padding: 7px 13px;
+    margin-top: 10px;
+    border-radius: 6px;
+    text-shadow: 0px 0px 1px black;
+}
+#signs{
+    background: #10B981;
+    border: 2px solid #10B981;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-size: 14px;
+    padding: 7px 13px;
+    margin-top: 10px;
+    border-radius: 6px;
+    text-shadow: 0px 0px 1px black;
+}
